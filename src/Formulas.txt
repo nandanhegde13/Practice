@@ -1,0 +1,37 @@
+Arithmetic progression
+Ex:2,4,6,8.....
+1st term(a) = 2
+diff = 2;
+2nd  = a+diff
+3rd  = a+2d
+nth term = a+(n-1)d
+avg = sum/n
+sum = avg*n
+    = (1st+last/2)*n
+    = (a +(a+(n-1)*d)/2)*n
+sum  =(n/2)(2a+(n-1)*d)
+
+
+ Geometric progression:
+ Ex:2,3,8,16,32..
+ 1st(a):2
+ ratio(r):2
+ 2nd :a*r
+ 3rd:a*r*r
+ nth :a*(r**n-1)
+sum = a*(1-r**n)/1-r
+
+Quadratic equation:
+ax2 +bx + c = 0
+root:value for which equation is satisfied
+D = b2 -4ac
+x= (-b +or -sqrt(b2-4ac))/2a
+
+Mean and median
+mean = total/n
+median = middle number of sorted numbers(if two middle numbers,mean of those two)
+
+LCM of a and b = (a*b)/GCD(a,b)
+
+
+
